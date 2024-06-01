@@ -1,4 +1,4 @@
-# Book-Dictionary API
+# Book Dictionary API
 
 Welcome to the Book-Dictionary API repository. This project is built using FastAPI and allows you to perform CRUD (Create, Read, Update, Delete) operations on a collection of books. 
 
